@@ -1,3 +1,4 @@
 {
-  "name": "ec-europa/ec-component-accordion"
+  "name": "ec-europa/ec-component-accordion",
+  "minimum-stability": "dev"
 }

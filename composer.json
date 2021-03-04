@@ -20,5 +20,6 @@
   },
   "replace": {
     "ec-europa/ec-component-accordion": "self.version"
-  }
+  },
+  "minimum-stability": "dev"
 }
