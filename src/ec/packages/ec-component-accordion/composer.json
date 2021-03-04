@@ -1,4 +1,6 @@
 {
   "name": "ec-europa/ec-component-accordion",
+  "description": "blahhhhh",
+  "type": "library",
   "minimum-stability": "dev"
 }
